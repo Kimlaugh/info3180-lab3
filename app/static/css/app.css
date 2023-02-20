@@ -1,3 +1,39 @@
 body {
     padding-top: 5rem;
 }
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+p{
+    font-size: 14px;
+}
+
+span{
+    color: red;
+}
+
+input{
+    margin-bottom: 18px;
+}
+
+textarea{
+    height: 110px;
+    width: 400px;
+    margin-bottom: 18px;
+}
+
+button{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(6, 86, 206);
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    border-color: rgb(6, 86, 206);
+ }
